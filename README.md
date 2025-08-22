@@ -3,7 +3,7 @@ Damas y caballeros, sean bienvenidos al respositorio del grupo 12 del curso "Fun
 Integrantes:
 * CASTILLO MAYTA, ANYELO ARMANDO, anyelo.castillo@upch.pe
 * CASTILLO ZAPATA, CRISTHIAN LEONARDO, cristhian.castillo@upch.pe
-* CERNA ACOSTA, JULIO ANDRES
+* CERNA ACOSTA, JULIO ANDRES julio.cerna@upch.pe
 * CUENTAS FERREÑAN, BONNIE CAMILA, bonnie.cuentas@upch.pe
 * FERNANDEZ BACA LARA, GUSTAVO RODOLFO, gustavo.fernandez.baca@upch.pe
 * GARCIA ROJAS, KARLA EMILY, karla.garcia.r@upch.pe
