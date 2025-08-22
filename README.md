@@ -11,7 +11,6 @@ Integrantes:
 ![Logo del grupo](https://s.yimg.com/ny/api/res/1.2/T8hbaKXemhVqKpgdK.fRag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0Ng--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/393661b0-3dcd-11ef-b6fa-e91c4ca2c54d)
 
 ## Tabla de contenidos:
-* Introducción
 * Ficha de enfermedad
   * Nombre de la enfermedad: Esclerosis Lateral Amiotrófica
   * Sistema afectado: Neurologico
@@ -29,7 +28,6 @@ Integrantes:
   * Estudios geneticos: 
   * Laboratorios: 
 * Reflexión ingenieril
-* Conclusiones
 * Bibliografia
 
 
