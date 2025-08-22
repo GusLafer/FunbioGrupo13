@@ -18,6 +18,16 @@ Integrantes:
   * Breve descripcion: Enfermedad que se caracteriza por la degeneracion de las neuronas motoras, lo que causa debilidad en diferentes musculos.
 * Factores y analisis de la enfermedad
 * Prevención, diagnóstico, tratamiento y monitoreo
+
+  Hay un unico medicamento, el riluzol, que demostro retrasar el uso de ventilacion mecanica.
+
+   Entre sus metodos de diagnostico estan:
+
+  
+  * Neurofisiologia: por medio de la electromiografía con neuroconducciones se logran detectar alteraciones en la neurona Motora Inferior.  
+  * Neuroimagenes: 
+  * Estudios geneticos: 
+  * Laboratorios: 
 * Reflexión ingenieril
 * Conclusiones
 * Bibliografia
