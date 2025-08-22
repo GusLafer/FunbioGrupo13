@@ -12,4 +12,8 @@ Integrantes:
 
 ## Tabla de contenidos:
 * Introducción
+* Ficha de enfermedad
+* Factores y analisis de la enfermedad
+* Prevención, diagnóstico, tratamiento y monitoreo
+* Reflexión ingenieril
 * Conclusiones
