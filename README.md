@@ -21,5 +21,6 @@ Integrantes:
 * Reflexión ingenieril
 * Conclusiones
 * Bibliografia
-*
-* Zapata-Zapata, C., Franco-Dáger, E., Solano-Atehortúa, J., & Ahunca-Velásquez, L. (2016). Esclerosis lateral amiotrófica: actualización. IATREIA, 29(2). https://doi.org/10.17533/udea.iatreia.v29n2a08
+
+
+  Zapata-Zapata, C., Franco-Dáger, E., Solano-Atehortúa, J., & Ahunca-Velásquez, L. (2016). Esclerosis lateral amiotrófica: actualización. IATREIA, 29(2). https://doi.org/10.17533/udea.iatreia.v29n2a08
