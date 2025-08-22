@@ -12,9 +12,9 @@ Integrantes:
 
 ## Tabla de contenidos:
 * Introducción
-  Esclerosis Lateral Amiotrófica
-  Neurologico
-  Enfermedad que se caracteriza por la degeneracion de las neuronas motoras, lo que causa debilidad en diferentes musculos.
+  * Esclerosis Lateral Amiotrófica
+  *Neurologico
+  *Enfermedad que se caracteriza por la degeneracion de las neuronas motoras, lo que causa debilidad en diferentes musculos.
 * Ficha de enfermedad
 * Factores y analisis de la enfermedad
 * Prevención, diagnóstico, tratamiento y monitoreo
