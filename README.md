@@ -12,10 +12,10 @@ Integrantes:
 
 ## Tabla de contenidos:
 * Introducción
+* Ficha de enfermedad
   * Nombre de la enfermedad: Esclerosis Lateral Amiotrófica
   * Sistema afectado: Neurologico
   * Breve descripcion: Enfermedad que se caracteriza por la degeneracion de las neuronas motoras, lo que causa debilidad en diferentes musculos.
-* Ficha de enfermedad
 * Factores y analisis de la enfermedad
 * Prevención, diagnóstico, tratamiento y monitoreo
 * Reflexión ingenieril
