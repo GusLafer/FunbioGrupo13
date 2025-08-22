@@ -2,7 +2,7 @@ Damas y caballeros, sean bienvenidos al respositorio del grupo 12 del curso "Fun
 # Fundamentos de Biodiseño Grupo 12
 Integrantes:
 * CASTILLO MAYTA, ANYELO ARMANDO
-* CASTILLO ZAPATA, CRISTHIAN LEONARDO, cristhian.castillo@upch.edu
+* CASTILLO ZAPATA, CRISTHIAN LEONARDO, cristhian.castillo@upch.pe
 * CERNA ACOSTA, JULIO ANDRES
 * CUENTAS FERREÑAN, BONNIE CAMILA
 * FERNANDEZ BACA LARA, GUSTAVO RODOLFO
