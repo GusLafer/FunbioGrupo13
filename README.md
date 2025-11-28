@@ -27,8 +27,11 @@ Integrantes:
   * Neuroimagenes: 
   * Estudios geneticos: 
   * Laboratorios: 
-* Reflexión ingenieril
+* Reflexión ingenieril:
+  
   El prototipo consiste en una palanca mecánica adaptable que se acopla directamente al eje de la rueda de la silla de ruedas. Está diseñada específicamente para un paciente tetrapléjico con movilidad muy limitada en los brazos, que no puede alcanzar ni accionar el sobre-aro convencional.
+  
 * Bibliografia
+  
   Zapata-Zapata, C., Franco-Dáger, E., Solano-Atehortúa, J., & Ahunca-Velásquez, L. (2016). Esclerosis lateral amiotrófica: actualización. IATREIA, 29(2). https://doi.org/10.17533/udea.iatreia.v29n2a08
   Ingre, C., Roos, P. M., Piehl, F., Kamel, F. y Fang, F. (2015). Factores de riesgo para la esclerosis lateral amiotrófica. Epidemiología clínica, 7, 181–193. https://doi.org/10.2147/CLEP.S37505
